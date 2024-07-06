@@ -1,0 +1,2 @@
+This is file 2.txt
+Change from b1 in 2.txt

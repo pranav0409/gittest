@@ -1,0 +1,6 @@
+This is file 2.txt
+<<<<<<< HEAD
+Change from b1 in 2.txt
+=======
+Change from b2 in 2.txt
+>>>>>>> b2
